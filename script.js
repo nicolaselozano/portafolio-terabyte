@@ -2,7 +2,7 @@ const members = [
   {
     name: "Nicolas Ezequiel Lozano",
     role: "Desarrollo Backend",
-    bio: "Diseño las APIs y la lógica de la aplicación. Tambiencuento con conocimientos en Frontend",
+    bio: "Diseño las APIs y la lógica de la aplicación. Tambien cuento con conocimientos en Frontend",
     skills: ["Java", "js", "Node.js", "Bases de datos", "APIs REST"],
   },
   {
