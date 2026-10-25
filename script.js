@@ -6,7 +6,7 @@ const members = [
     skills: ["HTML", "CSS", "JavaScript"],
   },
   {
-    name: "Mauro Torres",
+    name: "Mauro Torre",
     role: "Desarrollo Backend",
     bio: "Diseño las APIs y la lógica de la aplicación, manteniendo el código ordenado y testeado.",
     skills: ["Node.js", "Bases de datos", "APIs REST"],
